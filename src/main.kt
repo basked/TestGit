@@ -1,6 +1,7 @@
 fun main(){
-    var list = listOf<String>("last", "move","crew")
-    for (i in list){
-        println(i)
-    }
+
+    println("basket")
+    println("from")
+    println("Last")
+    println("Move")
 }
